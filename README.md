@@ -8,7 +8,7 @@ https://github.com/jamespan2012/myshellscripts
 
 **脚本**
 
- oracle.sh
+ oracle.sh：永久放行甲骨文端口
  
  **使用**
  
