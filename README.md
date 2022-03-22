@@ -11,7 +11,9 @@ https://github.com/jamespan2012/myshellscripts
  oracle.sh
  
  **使用**
+ 
     #下载使用脚本
+    
     wget https://raw.githubusercontent.com/jamespan2012/myshellscripts/main/oracle.sh -O oracle.sh && bash oracle.sh
 
     #后续运行脚本（再次检查也仅需运行下面代码）
