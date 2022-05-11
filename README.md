@@ -9,6 +9,19 @@ https://github.com/jamespan2012/myshellscripts
 
 **脚本**
 
+ fuck-bt-site-task.sh：阻止宝塔收集信息并上传
+ 
+ **使用**
+ 
+    #下载使用脚本
+    wget https://raw.githubusercontent.com/jamespan2012/myshellscripts/main/fuck-bt-site-task.sh -O fuck-bt-site-task.sh && bash fuck-bt-site-task.sh
+    #后续运行脚本（再次检查也仅需运行下面代码）
+    bash fuck-bt-site-task.sh
+    #博客地址
+    https://vpsxb.net/2126/
+
+**脚本**
+
  oracle.sh：永久放行甲骨文端口
  
  **使用**
