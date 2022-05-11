@@ -39,7 +39,7 @@ uninstall(){
 
 check_root
 
-echo -e "${Info} 选择你要使用的功能: "
+echo -e "${Info} 选择功能(退出脚本:Ctrl+c): "
 echo -e "1.启用并备份\n2.恢复初始状态"
 read -p "输入数字以选择:" function
 
