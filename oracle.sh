@@ -8,7 +8,8 @@ echo -e "${Green_font}
 #======================================
 # Project: oracle firewall
 # Version: 0.0.1
-# Blog:    https://vpsxb.net/912/
+# 推荐机场:   垃圾场加速器
+# 注册地址:   https://lajichang.eu/#/register?code=68NY1XOw
 #======================================
 ${Font_suffix}"
 
