@@ -8,7 +8,8 @@ echo -e "${Green_font}
 #======================================
 # Project: fuck-bt-site-task
 # Version: 0.0.1
-# Blog:    https://vpsxb.net/2126/
+# 推荐机场:   垃圾场加速器
+# 注册地址:   https://lajichang.eu/#/register?code=68NY1XOw
 #======================================
 ${Font_suffix}"
 
