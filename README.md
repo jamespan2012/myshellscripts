@@ -14,7 +14,7 @@ https://github.com/jamespan2012/myshellscripts
  **使用**
  
     #下载使用脚本
-    wget https://raw.githubusercontent.com/jamespan2012/myshellscripts/main/fuck-bt-site-task.sh -O fuck-bt-site-task.sh && bash fuck-bt-site-task.sh
+    wget https://ghproxy.com/https://raw.githubusercontent.com/jamespan2012/myshellscripts/main/fuck-bt-site-task.sh -O fuck-bt-site-task.sh && bash fuck-bt-site-task.sh
     #后续运行脚本（再次检查也仅需运行下面代码）
     bash fuck-bt-site-task.sh
     #博客地址
@@ -27,7 +27,7 @@ https://github.com/jamespan2012/myshellscripts
  **使用**
  
     #下载使用脚本
-    wget https://raw.githubusercontent.com/jamespan2012/myshellscripts/main/oracle.sh -O oracle.sh && bash oracle.sh
+    wget https://ghproxy.com/https://raw.githubusercontent.com/jamespan2012/myshellscripts/main/oracle.sh -O oracle.sh && bash oracle.sh
     #后续运行脚本（再次检查也仅需运行下面代码）
     bash oracle.sh
     #博客地址
