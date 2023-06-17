@@ -1,7 +1,7 @@
 # Download the cf-v4-ddns.sh file
 cd /root
 
-wget -q https://github.com/alohane/cloudflare-api-v4-ddns/raw/dev/cf-v4-ddns.sh -O cf-v4-ddns.sh
+wget -q https://raw.githubusercontent.com/jamespan2012/myshellscripts/main/cf-v4-ddns.sh -O cf-v4-ddns.sh
 
 # Prompt the user to enter the CFKEY value
 read -p "Enter Cloudflare API key: " CFKEY
